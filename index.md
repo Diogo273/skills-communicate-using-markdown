@@ -8,6 +8,13 @@ static int Fib(int n) {
 }
 ```
 
+task list
+- [X] add header
+- [X] add image
+- [X] add code block
+- [X] add list
 
-###### and an example image.
+
+
+###### example image.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
